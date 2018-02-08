@@ -1,0 +1,5 @@
+<?php 
+//FOOTER TEMPLATE
+?>
+
+<footer>2016 &copy; CREATED BY PAWEŁ WOJTASZKO. ALL RIGHTS RESERVED</footer>

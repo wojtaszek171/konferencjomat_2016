@@ -1,8 +1,8 @@
 # PL: konferencjomat_2016
 Konkurs ITAD w 2016 roku na Politechnice Lubelskiej - zajęcie pierwszego miejsca.
 Konkurs polegał na napisaniu aplikacji losującej nagrody spośród uczestników konferencji.
-Napisałem aplikację internetową w PHP z użyciem bazy danych. Aplikacja pozwalała użytkownikowi na dodawanie uczestników konferencji, dodawanie konkursów, dodawanie do konkursów uczestników konferencji a następnie losowanie zwycięzców spośród uczestników poszczególnych konkursów bądź całej konferencji.
-Aplikacja pisana była na szybko i jeszcze bez większej wiedzy o PHP dlatego też nie jest napisana obiktowo.
+Napisałem aplikację internetową w PHP z użyciem bazy danych MySQL. Aplikacja pozwalała użytkownikowi na dodawanie uczestników konferencji, dodawanie konkursów, dodawanie do konkursów uczestników konferencji a następnie losowanie zwycięzców spośród uczestników poszczególnych konkursów bądź całej konferencji.
+Aplikacja pisana była na szybko i jeszcze bez większej wiedzy o PHP dlatego też nie jest napisana obiektowo.
 
 # EN: conferenceDrawMachine_2016
 ITAD competition in 2016 at the Lublin University of Technology - taking first place.

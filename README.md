@@ -1,3 +1,5 @@
+First programming project in life.
+
 # PL: konferencjomat_2016
 Konkurs ITAD w 2016 roku na Politechnice Lubelskiej - zajęcie pierwszego miejsca.
 Konkurs polegał na napisaniu aplikacji losującej nagrody spośród uczestników konferencji.
